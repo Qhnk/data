@@ -4,6 +4,7 @@ aliveinside
 bituca
 gmwp
 inova
+legana
 lower
 mikasa
 mizuki

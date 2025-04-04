@@ -6,6 +6,7 @@ bituca
 gmwp
 inova
 jaumzada
+keko
 legana
 lower
 mikasa
